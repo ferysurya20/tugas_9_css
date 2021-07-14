@@ -1,0 +1,21 @@
+body {
+    background-image: url(/uluwatu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* img {
+    z-index: -1;
+} */
+
+div {
+    width: 850px;
+    height: 780px;
+    background-color: white;
+    text-align: right;
+    border: 0 solid black;
+    font-size: 17px;
+    font-weight: bolder;
+    position: static;
+    float: right;
+}
